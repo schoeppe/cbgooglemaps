@@ -25,7 +25,7 @@ class MapController extends ActionController
 {
 
     protected $ceData;
-    protected $settings;
+    protected array $settings = [];
     protected $cobj;
     protected $filePath;
 
