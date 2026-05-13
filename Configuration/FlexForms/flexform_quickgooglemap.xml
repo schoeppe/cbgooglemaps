@@ -150,48 +150,48 @@
                                 <default>ROADMAP</default>
                                 <items type="array">
                                     <numIndex index="0" type="array">
-                                        <numIndex index="0"></numIndex>
-                                        <numIndex index="1"></numIndex>
+                                        <label></label>
+                                        <value></value>
                                     </numIndex>
                                     <numIndex index="1" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeRoadmap</numIndex>
-                                        <numIndex index="1">ROADMAP</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeRoadmap</label>
+                                        <value>ROADMAP</value>
                                     </numIndex>
                                     <numIndex index="2" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeSatellite</numIndex>
-                                        <numIndex index="1">SATELLITE</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeSatellite</label>
+                                        <value>SATELLITE</value>
                                     </numIndex>
                                     <numIndex index="3" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeHybrid</numIndex>
-                                        <numIndex index="1">HYBRID</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeHybrid</label>
+                                        <value>HYBRID</value>
                                     </numIndex>
                                     <numIndex index="4" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeTerrain</numIndex>
-                                        <numIndex index="1">TERRAIN</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeTerrain</label>
+                                        <value>TERRAIN</value>
                                     </numIndex>
                                     <numIndex index="5" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Basic</numIndex>
-                                        <numIndex index="1">MapBox-BASIC</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Basic</label>
+                                        <value>MapBox-BASIC</value>
                                     </numIndex>
                                     <numIndex index="6" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Streets</numIndex>
-                                        <numIndex index="1">MapBox-STREETS</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Streets</label>
+                                        <value>MapBox-STREETS</value>
                                     </numIndex>
                                     <numIndex index="7" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Bright</numIndex>
-                                        <numIndex index="1">MapBox-BRIGHT</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Bright</label>
+                                        <value>MapBox-BRIGHT</value>
                                     </numIndex>
                                     <numIndex index="8" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Light</numIndex>
-                                        <numIndex index="1">MapBox-LIGHT</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Light</label>
+                                        <value>MapBox-LIGHT</value>
                                     </numIndex>
                                     <numIndex index="9" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Dark</numIndex>
-                                        <numIndex index="1">MapBox-DARK</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Dark</label>
+                                        <value>MapBox-DARK</value>
                                     </numIndex>
                                     <numIndex index="10" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Satellite</numIndex>
-                                        <numIndex index="1">MapBox-SATELLITE</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.mapTypeMapbox.Satellite</label>
+                                        <value>MapBox-SATELLITE</value>
                                     </numIndex>
                                 </items>
                             </config>
@@ -205,24 +205,24 @@
                                 <default>DEFAULT</default>
                                 <items type="array">
                                     <numIndex index="0" type="array">
-                                        <numIndex index="0"></numIndex>
-                                        <numIndex index="1"></numIndex>
+                                        <label></label>
+                                        <value></value>
                                     </numIndex>
                                     <numIndex index="1" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.navigationControlDefault</numIndex>
-                                        <numIndex index="1">DEFAULT</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.navigationControlDefault</label>
+                                        <value>DEFAULT</value>
                                     </numIndex>
                                     <numIndex index="2" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.navigationControlSmall</numIndex>
-                                        <numIndex index="1">SMALL</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.navigationControlSmall</label>
+                                        <value>SMALL</value>
                                     </numIndex>
                                     <numIndex index="3" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.navigationControlZoomPan</numIndex>
-                                        <numIndex index="1">ZOOM_PAN</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.navigationControlZoomPan</label>
+                                        <value>ZOOM_PAN</value>
                                     </numIndex>
                                     <numIndex index="4" type="array">
-                                        <numIndex index="0">LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.navigationControlAndroid</numIndex>
-                                        <numIndex index="1">ANDROID</numIndex>
+                                        <label>LLL:EXT:cbgooglemaps/Resources/Private/Language/locallang.xlf:label.navigationControlAndroid</label>
+                                        <value>ANDROID</value>
                                     </numIndex>
                                 </items>
                             </config>
